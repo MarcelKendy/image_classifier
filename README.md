@@ -2,7 +2,10 @@
 
 # Projeto de Classificação de Imagens
 
-Este projeto utiliza algoritmos de machine learning para classificar imagens em diferentes categorias. Ele foi desenvolvido em Python e requer algumas bibliotecas adicionais para funcionar.
+Este projeto utiliza algoritmos de machine learning para classificar imagens em diferentes categorias. Ele foi desenvolvido em Python e mais informações serão listadas abaixo.
+Foi desenvolvido inteiramente por mim, Marcel Kendy Rabelo Matsumoto, de matrícula 5200 em São Gotardo/MG para a disciplina SIN 393 lecionada por João Fernando Mari [joaofmari.github.io](https://joaofmari.github.io/) do curso de Sistemas de Informação - UFV/CRP 
+
+Livre para qualquer tipo de uso.
 
 ## Pré-requisitos
 
